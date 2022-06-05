@@ -22,7 +22,7 @@ def caesar_cipher(uncipheredString, step)
     puts cipheredString
 end
 
-caesar_cipher('abcABC abcabc ]][]["~', 3)
+caesar_cipher('abcABCzyz abcabc ]][]["~', 6)
 
 ## A - 65, Z - 90
 ## a - 97, z - 122 
